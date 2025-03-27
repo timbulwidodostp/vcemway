@@ -1,4 +1,8 @@
-D 'DEA': Data envelopment analysis
+D 'vcemway': Standard errors robust inference with multiway clustering Use vcemway With STATA 18
 D
-F dea.ado
-F dea.sthlp
+F st_tuples_py.py
+F tuples.ado
+F tuples.hlp
+F tuples.sthlp
+F vcemway.ado
+F vcemway.sthlp
