@@ -1,7 +1,9 @@
 # vcemway
-Standard errors robust inference with multiway clustering Use vcemway With STATA 18
+Standard errors robust inference with multiway clustering Use vcemway With STATA 19
 
-A one-stop solution for robust inference with multiway clustering Use vcemway With STATA 18
+A one-stop solution for robust inference with multiway clustering Use vcemway With STATA 19
+
+https://www.youtube.com/watch?v=jbIqst7C1Yo
 
 Olah Data Semarang
 
